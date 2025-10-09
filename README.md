@@ -47,5 +47,22 @@ Saya dengan nama Nafis Asyakir Anjar dan Nim 2407915 mengerjakan tugas praktikum
 
 ### Alur Program
 
-1. Ketika kode dijalankan, akan menampilkan interface berupa form untuk penjualan akun
-2. 
+1. Ketika kode dijalankan, akan menampilkan interface berupa form untuk data penjualan akun, dan tabel akun yang dijual.
+2. User dapat mengisi form dan melakukan 2 aksi 
+   a. Menekan button add - InsertData() - untuk menambahkan data ke dalam tabel data
+   b. Menekan button cancel - ClearForm() - untuk mereset form menjadi kosongan
+3. User dapat memilih salah satu baris data dalam tabel untuk melakukan 2 aksi
+   a. Menekan button Update - UpdateData() - untuk memperbarui data setelah diedit
+   b. Menekan button Delete - DeleteData() - untuk menghapus data dengan tambahan confirmation prompt
+
+---
+
+ ### Dokumentasi
+
+1. Insert Data (CREATE)
+   
+3. Read Data (READ)
+   
+5. Update Data (UPDATE)
+   
+7. Delete Data (DELETE)
