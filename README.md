@@ -10,12 +10,12 @@ Saya dengan nama Nafis Asyakir Anjar dan Nim 2407915 mengerjakan tugas praktikum
    
 1. Product
    Atribut :
-      - No
-      - ID
-      - Nama
-      - Kategori
-      - Status Premium
-      - Status Penjual
+      - No -> Penomoran untuk list data
+      - ID -> Kode unik untuk setiap data
+      - Username -> Nama akun yang akan dijual
+      - Platform -> Game dari akun yang akan dijual
+      - Status Premium -> Status akun tersebut (Dilihat dari banyaknya uang yang dikeluarkan untuk akun tersebut)
+      - Status Penjual -> Status penjual akun tersebut apakah sudah terverifikasi atau belum
         
    Method :
       - Getter
@@ -60,9 +60,17 @@ Saya dengan nama Nafis Asyakir Anjar dan Nim 2407915 mengerjakan tugas praktikum
  ### Dokumentasi
 
 1. Insert Data (CREATE)
-   
+   ![dokumentasi](./Dokumentasi/isiform.jpg)
+   ![dokumentasi](./Dokumentasi/add.jpg)
 3. Read Data (READ)
-   
+   ![dokumentasi](./Dokumentasi/awal.jpg)
 5. Update Data (UPDATE)
-   
+   ![dokumentasi](./Dokumentasi/mauUpdate.jpg)
+   ![dokumentasi](./Dokumentasi/updated.jpg)
 7. Delete Data (DELETE)
+   ![dokumentasi](./Dokumentasi/mauhapus.jpg)
+   ![dokumentasi](./Dokumentasi/deleted.jpg)
+   ![dokumentasi](./Dokumentasi/confirm.jpg)
+   ![dokumentasi](./Dokumentasi/akhir.jpg)
+---
+### TAMAT
